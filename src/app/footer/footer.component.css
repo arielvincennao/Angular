@@ -1,0 +1,8 @@
+footer img{
+   height: 30px;
+}
+
+footer {
+  min-height: 50px;
+  background-color: black;
+}
